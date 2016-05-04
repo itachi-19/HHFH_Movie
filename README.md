@@ -30,13 +30,13 @@ Size tag is fetched from system.log file of the DC Client. So make sure that you
 ##Note:
 	
 - Files must be named properly for it to work. For example:
-	Title (2015) BluRay m720p [nick].mkv
-	Title (2015) [BluRay m720p] [nick].mkv
-	Title (2015) WEBHD 1080p [nick].mkv
-	Title (2015) WEB-DL 720p [nick].mkv
-	Title (2015) HDRip 720p (KOR Hard-Subs/EXTENDED) [usernick].mp4
-	Title (2015) DVDRip (Malyalam) E-Subs [usernick].avi 
-	Title (2015) DVDRip (Tamil) E-Subs [usernick].avi 
+	* Title (2015) BluRay m720p [nick].mkv
+	* Title (2015) [BluRay m720p] [nick].mkv
+	* Title (2015) WEBHD 1080p [nick].mkv
+	* Title (2015) WEB-DL 720p [nick].mkv
+	* Title (2015) HDRip 720p (KOR Hard-Subs/EXTENDED) [usernick].mp4
+	* Title (2015) DVDRip (Malyalam) E-Subs [usernick].avi 
+	* Title (2015) DVDRip (Tamil) E-Subs [usernick].avi 
 
 - If you need to add tags of your own to the file, make sure you add them after the quality tag (DVDRip/WEBHD/BluRay m720p).
 - If the script exits without any alert, its probably because you either named your file incorrectly or the country code support has not yet been added. PM me
