@@ -24,6 +24,7 @@ Size tag is fetched from system.log file of the DC Client. So make sure that you
 - Afer it finishes successfully, you will see a message saying "You can now use {CTRL} + {V} to get the entry".
 - Paste it in BOT_Offliner and check for any errors.
 - Add the entry if everything is OK. Contact me in case of error.
+
 =======================================
 
 ##Note:
@@ -39,6 +40,7 @@ Size tag is fetched from system.log file of the DC Client. So make sure that you
 
 - If you need to add tags of your own to the file, make sure you add them after the quality tag (DVDRip/WEBHD/BluRay m720p).
 - If the script exits without any alert, its probably because you either named your file incorrectly or the country code support has not yet been added. PM me
+
 =======================================
 
 ##Updates v1.0.2:
