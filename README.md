@@ -14,6 +14,7 @@ determine when to use 'Eng-Subs','HIN' and 'TAM' tags.
 Size tag is fetched from system.log file of the DC Client. So make sure that you have system logging enabled. It can also determine the correct format of size tag.
 
 =========================================
+
 ##Usage:
 - Create a shortcut of the exe on desktop.
 - Right click on shortcut>Properties and assign a hotkey like {CTRL} + {M} to it.
